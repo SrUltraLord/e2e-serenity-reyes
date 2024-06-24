@@ -1,0 +1,10 @@
+# Conclusiones
+
+Mediante la realización de la siguiente prueba técnica, se ha podido concluir lo siguiente:
+
+- El patrón screenplay permite desarrollar pruebas de automatización de una forma ágil y
+  ayuda a que el código de dichas pruebas sea más mantenible y fácil de leer.
+- Accediendo al driver del navegador provisto por el actor se puede incluso interactuar
+  con los elementos como los popup alerts.
+- Es necesario mantener claras las responsabilidades de cada clase para poder separar correctamente
+  las habilidades, tareas, acciones y modelos.
